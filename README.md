@@ -2,13 +2,7 @@
 
 ## Design
 
-- [ ] App Icons
-  - [ ] iOS 
-  - [ ] Android
-- [ ] App Slpash Screens
-  - [ ] iOS
-  - [ ] Android
-- [ ] Notification Icon (Android)
+- [ ] Image Assets [Reference](https://github.com/sidferreira/AppDevelopmentChecklist/blob/master/Design/ImageAssets.md)
 
 ## Development
 
