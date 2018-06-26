@@ -2,7 +2,7 @@
 
 ## General Rules
 
-[ ] Create a `1024x1024` icon, create App icons out of that. (IOS Android Icon Generator Sketch - FREE)[https://www.sketchappsources.com/free-source/2183-ios-android-app-icon-generator-sketch-freebie-resource.html]
+[ ] Create a `1024x1024` icon, create App icons out of that. [App Icon Template by Søren Clausen][http://designersstash.com/appicontemplate/]
 [ ] Create a `2732x2732` art, with a `1500x1500` center area which will be visible in ANY situation. Check (https://splashscreen.pro/)[https://splashscreen.pro/]
 
 ## Android
@@ -31,6 +31,10 @@
 | ldpi | 200x320 |
 
 *_Portrait sizes!_*
+
+### Notification Icons
+
+### Statusbar Icons
 
 ### Play Store Images
 
